@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A junior frontend developer from Portugal</h3>
+<h3 align="center">A junior full stack developer from Portugal</h3>
 
 - 🌱 I’m currently learning **React**
 
