@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A junior full stack developer from Portugal</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**, **Docker** and **Quarkus**
 
 - 📫 How to reach me **rato.pedromoreira@gmail.com**
 
